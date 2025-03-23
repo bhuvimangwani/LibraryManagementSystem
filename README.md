@@ -26,9 +26,3 @@ This project is a **Library Management System** developed using **PHP** and **My
 
 
 
----
-
-## 🙌 Acknowledgments
-
-- UI/UX inspirations from open-source PHP dashboard templates.
-- Developed by **Bhuvi Mangwani**.
